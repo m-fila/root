@@ -9,14 +9,7 @@
 ################################################################################
 
 r"""
-/**
-\class TH1
-\brief \parblock \endparblock
-\htmlonly
-<details open>
-<summary  style="font-size:20px; color: #425788;"><b>Python interface</b></summary>
-<div class="pyrootbox">
-\endhtmlonly
+\pythondoc TH1
 
 ## Fitting histograms in Python
 
@@ -109,11 +102,7 @@ Further examples can be found in the tutorials:
 - [multifit.py](multifit__8py.html) fits multiple functions to different ranges of a 1D histogram.
 
 
-\htmlonly
-</div>
-</details>
-\endhtmlonly
-*/
+\endpythondoc
 """
 
 from . import pythonization
